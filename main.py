@@ -55,4 +55,4 @@ def add_message(sender, text):
     all_messages.append(new_message)
 
 
-app.run(host="0.0.0.0.", port=80)
+app.run(host="0.0.0.0", port=80)
